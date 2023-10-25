@@ -11,7 +11,8 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I am a Full Stack Developer with excellent knowledge of web development technologies like React JS,Next Js,Node JS, Express JS and Mongo DB.</i>
+    <i>- I am a Full Stack Developer with excellent knowledge of web development technologies like React JS, Next JS, Node JS, Express JS and MongoDB.
+As a core programmer, I love solving data driven problems and my areas of interest in Front-End.</i>
 </h3>
 
 <h3>
