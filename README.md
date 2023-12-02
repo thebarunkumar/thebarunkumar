@@ -1,5 +1,5 @@
 <!----------------------------------- Heading Section ------------------------------------>
-![Coding-bro](https://github.com/thebarunkumar/thebarunkumar/assets/77458180/32483bd5-debf-4603-aa4e-159169eba905)
+
 <h1 align="center">
     <h1 align="center">Hi 👋, I'm Barun Kumar</h1>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
