@@ -1,8 +1,8 @@
 <!----------------------------------- Heading Section ------------------------------------>
 
 <h1 align="center">
-    <h1 align="center">Hi 👋, I'm Barun Kumar</h1>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    <h1 align="center">Hi 👋, I'm Barun Kumar</h1>
 	
 <!----------------------------------- About Section ------------------------------------>
 
