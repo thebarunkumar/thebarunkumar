@@ -43,7 +43,7 @@ As a core programmer, I love solving data driven problems.</p>
     <a href="https://react-portfolio-main-thebarunkumar.vercel.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio%20-%20%23dc143c?style=for-the-badge&logo=ionic&logoColor=white" alt="https://react-portfolio-main-thebarunkumar.vercel.app/" />
     </a>
-    <a title="contact.thebarunkumar@gmail.com" href="mailto:contact.thebarunkumar@gmail.com">
+    <a title="contact.barunkumar@gmail.com" href="mailto:contact.barunkumar@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="contact.thebarunkumar@gmail.com" />
     </a>
 </p>
