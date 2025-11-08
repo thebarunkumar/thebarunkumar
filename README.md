@@ -38,7 +38,7 @@ I specialize in the **MERN stack** — React.js, Next.js, Node.js, Express.js, a
   <a href="https://twitter.com/thebarunkumar" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://react-portfolio-main-thebarunkumar.vercel.app/" target="_blank">
+  <a href="https://react-portfolio-main-gamma.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:contact.barunkumar@gmail.com" target="_blank">
